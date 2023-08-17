@@ -3,7 +3,7 @@ name: 01 Basic Docker Build
 # simplest workflow possible
 
 on:
-  push:
+  push: 
     branches:
       - main
   pull_request:
